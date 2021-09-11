@@ -51,7 +51,7 @@ The first prototype I made was using a breadboard. This version has a 20Mhz cloc
 
 Then for the final circuit I used a soldered prototype board. Good enough for the moment, cheap and can be made very quickly.
 
-![prototype](/images/img4.jpg)
+![prototype](/images/img9.jpg)
 
 ![prototype_back](/images/img5.jpg)
 
