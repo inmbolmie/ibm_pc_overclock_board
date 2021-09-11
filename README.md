@@ -1,6 +1,6 @@
 # IBM 5150/5160 Overclock Board
 
-Schematics for an IBM 5150/5160 overclock board
+Schematics for an IBM 5150/5160 overclock board to get CPU speed up to 8.33Mhz
 
 ![socket](/images/img8.jpg)
 
